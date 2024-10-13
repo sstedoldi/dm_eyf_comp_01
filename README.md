@@ -19,4 +19,6 @@ Este repo contiene 3 notebooks que hacen a la entrega final de la competencia.
 ## Entregas a Kaggle por API
   Script_comp01_kaggle_api_submissions.ipynb 
 
-Además, contiene el CSV entregado.
+El CSV elegido como entrega final es:
+
+predicciones_xgboost_FE_3_118_s_proba_mean_thr_opt_kaggle13T-10-202400-08-29.csv
