@@ -5,6 +5,7 @@
 https://www.kaggle.com/competitions/dm-ey-f-2024-primera/
 
 Comisión: lunes
+
 Alumno: Santiago Tedoldi
 
 Este repo contiene 3 notebooks que hacen a la entrega final de la competencia. 
